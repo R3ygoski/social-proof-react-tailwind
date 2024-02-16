@@ -1,0 +1,11 @@
+@media (min-width: 1440px) {
+    .card_rate__1 {
+        margin-left: 0rem;
+    }
+    .card_rate__2 {
+        margin-left: 2rem;
+    }
+    .card_rate__3 {
+        margin-left: 4rem;
+    }
+}

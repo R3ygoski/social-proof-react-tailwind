@@ -15,3 +15,14 @@
     position: relative;
     width: 100%;
 }
+
+.background__main {
+    background-image: url('./assets/bg-pattern-top-mobile.svg'), url('./assets/bg-pattern-bottom-mobile.svg');
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+}
+@media (min-width: 425px){
+    .background__main {
+        background-image: url('./assets/bg-pattern-top-desktop.svg'), url('./assets/bg-pattern-bottom-desktop.svg');
+    }
+}

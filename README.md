@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-made-with-react-and-tailwindcss-kkTNVEunW3)
+- Live Site URL: [Github](https://r3ygoski.github.io/social-proof-react-tailwind/)
 
 ## My process
 
